@@ -45,9 +45,9 @@
 
 |레포지토리|설명|
 |---|---|
-|[solra-backend](https://github.com/solra-org/solra-backend)|백엔드 API 서버|
-|[solra-frontend](https://github.com/solra-org/solra-frontend)|프론트엔드 웹 애플리케이션|
-|[solra](https://github.com/solra-org/solra)|Argo CD 기반 K8s 리소스 배포용 레포|
+|[solra-backend](https://github.com/fisa4th-final-project/solra-backend)|백엔드 API 서버|
+|[solra-frontend](https://github.com/fisa4th-final-project/solra-frontend)|프론트엔드 웹 애플리케이션|
+|[solra](https://github.com/fisa4th-final-project/solra)|Argo CD 기반 K8s 리소스 배포용 레포|
 
 ---
 
